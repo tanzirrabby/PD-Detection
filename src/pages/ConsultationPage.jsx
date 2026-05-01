@@ -1,0 +1,1 @@
+export default function ConsultationPage(){return <div className="medical-card text-center"><h2 className="text-2xl font-semibold">Doctor Consultation</h2><p className="my-4">This system does not prescribe medication. Please consult a certified doctor.</p><button className="rounded bg-medicalGreen px-4 py-2 text-white">Consult Neurologist</button></div>}
